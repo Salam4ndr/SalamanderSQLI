@@ -30,3 +30,4 @@ python3 SalaInjection.py  https://0a04009804276397c03f2a6c0082001d.web-security-
 ## Appendix
 
 the tool doesn't work for blind sql. Maybe someday there will be a future project
+asòa
